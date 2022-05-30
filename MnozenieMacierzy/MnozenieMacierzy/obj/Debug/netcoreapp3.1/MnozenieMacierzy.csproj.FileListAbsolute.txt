@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.1\MnozenieMacierzy.exe
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.1\MnozenieMacierzy.deps.json
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.1\MnozenieMacierzy.runtimeconfig.json
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.1\MnozenieMacierzy.runtimeconfig.dev.json
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.1\MnozenieMacierzy.dll
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.1\MnozenieMacierzy.pdb
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.AssemblyInfo.cs
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.dll
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.pdb
+C:\Users\pc\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.1\MnozenieMacierzy.genruntimeconfig.cache
